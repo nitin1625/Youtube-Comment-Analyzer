@@ -8,14 +8,12 @@ and suggested improvements.
 1. Clone the repository and navigate to the project directory.
 2. Set up a virtual environment and install dependencies from requirements.txt.
 3. Obtain API keys for YouTube Data API and Gemini AI, and add them to a .env file.
-4. Run the Flask application (`python app.py`) and open it in your web browser.
+4. Run the Streamlit application (`streamlit run main.py`) and open it in your web browser.
 5. Enter a YouTube video URL and click "Analyze" to see the analysis results.
 
 ## Technologies Used
 
-- Python (Flask)
-- JavaScript (Fetch API)
-- HTML/CSS (Bootstrap)
+- Streamlit
 - YouTube Data API
 - Gemini AI for text analysis
 
